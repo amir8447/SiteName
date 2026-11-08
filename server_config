@@ -1,5 +1,7 @@
 {
   "base_url": "https://convert.hamdeltv.online/",
+  "read_base_url": "https://api.hamdeltv.online/",
+  "media_host_url": "https://media.hamdeltv.online/",
   "storage_play_url": "https://files4.hamdeltv.online/",
   "telegram_support": "https://t.me/hamdelmoviesup"
 }
